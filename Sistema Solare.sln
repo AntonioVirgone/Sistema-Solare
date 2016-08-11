@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A3E45BE8-6548-C929-7E3A-D1E6877E3BB6}") = "Sistema Solare", "Assembly-CSharp.csproj", "{6B435AA7-E740-70AA-4FE1-A1F74AD2196D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B435AA7-E740-70AA-4FE1-A1F74AD2196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B435AA7-E740-70AA-4FE1-A1F74AD2196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B435AA7-E740-70AA-4FE1-A1F74AD2196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B435AA7-E740-70AA-4FE1-A1F74AD2196D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
